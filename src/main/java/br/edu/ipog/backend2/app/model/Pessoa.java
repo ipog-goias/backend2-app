@@ -5,7 +5,7 @@ import jakarta.persistence.*;
 import java.time.LocalDateTime;
 
 @Entity
-@Table(name = "PESSOA")
+@Table(name = "PESSOAZ")
 public class Pessoa {
 
     @Id //indica chave primária
