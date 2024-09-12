@@ -11,7 +11,7 @@ import java.time.LocalDateTime;
 @Builder
 @Data
 @Entity
-@Table(name = "PESSOAZ")
+@Table(name = "PESSOA")
 public class Pessoa {
 
     @Id //indica chave primária
