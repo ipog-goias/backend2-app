@@ -17,7 +17,7 @@ import static org.junit.jupiter.api.Assertions.assertNotNull;
 
 @Slf4j
 @SpringBootTest
-public class OneToOneTest {
+public class OneToOneBasicoTest {
 
     //Declarar atributos que serão inseridos para podermos fazer o teste
     @PersistenceUnit
